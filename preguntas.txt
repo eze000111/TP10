@@ -1,0 +1,6 @@
+1. La principal diferencia es que los arreglos (arrays) tienen tamaño fijo, mientras que los vectores (std::vector) pueden cambiar su tamaño dinámicamente durante la ejecución del programa.
+Además, los vectores son parte de la librería estándar de C++ (STL) y ofrecen muchas funciones útiles para manejar los datos con mayor facilidad.
+
+2. Un vector tradicional (como los arreglos o std::vector<int>) almacena tipos de datos primitivos (por ejemplo, int, float, char, etc.).
+En cambio, un vector de clase almacena objetos de una clase creada por el programador.
+Esto permite manejar colecciones de objetos complejos, con atributos y métodos propios.
